@@ -11,7 +11,7 @@ int main()
         IloModel model(env);
         IloCplex cplex(env);
 
-        const char* lpFile = "factory.lp";
+        const char* lpFile = "Configuration1.lp";
 		cplex.importModel(model, lpFile);
         cplex.extract(model);
 
