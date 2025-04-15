@@ -2,6 +2,7 @@
 .vs/
 x64/
 *.lp
+!Configuration1.lp
 *.vcxproj*
 
 # Prerequisites
