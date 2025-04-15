@@ -4,8 +4,8 @@ Factory planning 1 to zadanie z książki [Model Building in Mathematical Progra
 
 ## CPLEX
 
-Folder `cplex` zawiera pliki odpowiadające za model problemu i eksport do pliku `.lp`.
+Folder `cplex` zawiera pliki odpowiadające za model problemu i eksport do pliku `Configuration1.lp`.
 
 ## Visual Studio
 
-Folder `visual-studio` zawiera projekt VS umożliwiający uruchomienie wygenerowanego pliku `.lp` w C++.
+Folder `visual-studio` zawiera projekt VS umożliwiający uruchomienie wygenerowanego pliku `Configuration1.lp` w C++ (należy przenieść/skopiować manualnie).
