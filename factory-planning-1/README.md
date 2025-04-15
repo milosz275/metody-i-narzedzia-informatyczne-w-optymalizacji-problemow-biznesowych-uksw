@@ -8,4 +8,4 @@ Folder `cplex` zawiera pliki odpowiadające za model problemu i eksport do pliku
 
 ## Visual Studio
 
-Folder `visual-studio` zawiera projekt VS umożliwiający uruchomienie wygenerowanego pliku `Configuration1.lp` w C++ (należy przenieść/skopiować manualnie).
+Folder `visual-studio` zawiera projekt VS umożliwiający uruchomienie wygenerowanego pliku `Configuration1.lp` w C++ (po zmianie w CPLEX należy przenieść/skopiować manualnie).
