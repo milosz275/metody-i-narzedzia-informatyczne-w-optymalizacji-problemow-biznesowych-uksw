@@ -2,4 +2,4 @@
 
 Zadania:
 
-- [Factory Planning 1](/factory-planning-1)
+- [Factory planning 1](/factory-planning-1)
